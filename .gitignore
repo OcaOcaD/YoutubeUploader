@@ -1,0 +1,4 @@
+/test
+.env
+secrets.json
+/venv
